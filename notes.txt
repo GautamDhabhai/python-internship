@@ -1,0 +1,14 @@
+*****DAY 2*****
+#Homework: Learn how to change comment syntax in python
+int x = something is hard prototype language
+if the programming language automatically detects the type of data then its a dynamic typing language
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+*****DAY 3*****
+data types in python
+(1)Immutable(unchangable memory loaction once set it wont change till the program is running) = int, float, string, tuple etc...
+(2)Mutable(changable memory can be rewritten) = list, dict etc... 
+----------------
+A string is a collection of 0 or more character
+Lower doesnt change the strings original value
+**Interview ques- Tell the storage process of a variable (string)
+Tuple is a collection of data
